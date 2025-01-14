@@ -76,8 +76,6 @@ plugins:
   - jekyll-paginate
 
 paginate: 2
-paginate_path: "/_posts/page:num/"
-comments: true
 
 # Use the following plug-ins
 gems:
