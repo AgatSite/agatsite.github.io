@@ -72,6 +72,9 @@ kramdown:
 sass:
   style: :expanded # You might prefer to minify using :compressed
 
+plugins:
+  - jekyll-paginate
+
 paginate: 2
 paginate_path: "/_posts/page:num/"
 comments: true
